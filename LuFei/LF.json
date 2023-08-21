@@ -47,7 +47,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/js/lf_live10_min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/js/lf_live_min.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/txt/lf_live_min.txt"
     },
     {
       "key": "lf_js_p2p",
