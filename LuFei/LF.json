@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"你的token"
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/txt/token.txt"
     },
     {
       "key": "荐片",
@@ -79,7 +79,7 @@
     "quickSearch": 0,
     "filterable": 0,
     "api": "https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/js/lf_pushagent1_5_min.js",
-    "ext": "你的token(字母+数字) 或 本地token.txt 或 在线token地址"
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/LuFei/txt/token.txt"
     }
   ],
   "rules":[
