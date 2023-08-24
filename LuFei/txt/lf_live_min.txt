@@ -23,11 +23,14 @@
 #电视直播
 https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/tvzb.m3u
 
-#all
-https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/all.m3u
+#音乐
+https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/yinyue.txt
+
+#LB
+https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/LB.m3u
 
 #CR
 https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/CR.m3u
 
-#LB
-https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/LB.m3u
+#all
+https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/all.m3u
