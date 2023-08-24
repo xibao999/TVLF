@@ -30,4 +30,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/all
 https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/CR.m3u
 
 #LB
-https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/CR.m3u
+https://ghproxy.com/https://raw.githubusercontent.com/jane3824/TV/main/lives/LB.m3u
